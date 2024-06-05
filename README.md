@@ -7,3 +7,5 @@
 ## Area de mudança
 
 ## interagindo com servidor remoto
+
+## adicionando pull
